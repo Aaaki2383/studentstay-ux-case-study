@@ -1,44 +1,37 @@
-# User Research
+# User Persona
 
-## Research Objective
+## Meet Maya
 
-The goal of this research is to understand the challenges students face when searching for accommodation and identify opportunities to make the process easier.
+**Age:** 23  
+**Occupation:** University student  
+**Goal:** Find affordable accommodation close to campus
 
-## Key Questions
+### About
 
-* What information do students need when evaluating a property?
-* What makes comparing properties difficult?
-* Which filters are most useful?
-* What information should be visible immediately on a property listing?
-* What would make students feel more confident about contacting a landlord?
+Maya is a university student looking for accommodation for the upcoming academic term. She wants to stay within her budget while keeping her commute to campus manageable.
 
-## Initial Findings
+### Goals
 
-Based on an exploratory review of student housing search experiences, several common needs were identified:
+- Find housing within budget
+- Stay close to campus
+- Compare multiple properties
+- Understand what is included in the rent
+- Save interesting listings
 
-### 1. Price transparency
+### Frustrations
 
-Students need to quickly understand the total monthly cost and what is included.
+- Too many listings to sort through
+- Important information can be difficult to find
+- Comparing properties takes time
+- Unclear rental costs
+- Listings may lack important details
 
-### 2. Location
+### Needs
 
-Distance from campus and access to transportation are important considerations.
-
-### 3. Property information
-
-Users need important information such as room type, amenities, availability, and rental requirements without having to search through lengthy descriptions.
-
-### 4. Comparison
-
-Students may need to evaluate multiple properties before deciding which options are worth considering.
-
-### 5. Saving options
-
-Users benefit from being able to save interesting properties and return to them later.
-
-## Design Opportunity
-
-Create a housing search experience that makes the most important information easy to find and allows students to quickly filter, save, and compare properties.
-
-> Note: This is an exploratory UX project. The findings above are design assumptions and research directions rather than results from a large formal study.
+- Clear pricing
+- Useful filters
+- Distance information
+- Consistent property information
+- Easy comparison
+- Saved listings
 
