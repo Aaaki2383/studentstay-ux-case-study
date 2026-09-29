@@ -65,9 +65,6 @@ I worked on:
 
 Final UI screens and prototype will be added as the project develops.
 
-## Prototype
-
-[Figma Prototype](#)
 
 ## What I Learned
 
