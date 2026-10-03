@@ -62,8 +62,7 @@ I worked on:
 * Adobe Photoshop
 
 ## Final Design
-
-Final UI screens and prototype will be added as the project develops.
+  Final design has been added to the prototype file.
 
 
 ## What I Learned
